@@ -163,7 +163,7 @@ while (x < carsForSale.length) {
     x++
 }
  
-/* Or this below one using the fol loop model:
+/* Or this below one using the for loop model:
 
 
 for (let i = 0; i<carsForSale.length; i++) {
